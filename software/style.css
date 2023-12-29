@@ -1,0 +1,15 @@
+
+body{
+    background-color: aquamarine;
+    color: #333;
+    height: 1000px;
+    width: 1000px;
+    text-align: center;
+}
+div{
+    background-color: aquamarine;
+    color: #333;
+    height: 100%;
+    width: 100%;
+    text-align: center;
+}
